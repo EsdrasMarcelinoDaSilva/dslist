@@ -1,4 +1,4 @@
-package com.esdrasdev.dslist;
+package com.esdrasdev.dslist.dto;
 
 import com.esdrasdev.dslist.entities.Game;
 
